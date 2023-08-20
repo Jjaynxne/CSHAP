@@ -1,0 +1,16 @@
+C:\CSHAP\Algorhythm\Algorhythm\bin\Debug\net6.0-windows\Algorhythm.exe
+C:\CSHAP\Algorhythm\Algorhythm\bin\Debug\net6.0-windows\Algorhythm.deps.json
+C:\CSHAP\Algorhythm\Algorhythm\bin\Debug\net6.0-windows\Algorhythm.runtimeconfig.json
+C:\CSHAP\Algorhythm\Algorhythm\bin\Debug\net6.0-windows\Algorhythm.dll
+C:\CSHAP\Algorhythm\Algorhythm\bin\Debug\net6.0-windows\Algorhythm.pdb
+C:\CSHAP\Algorhythm\Algorhythm\obj\Debug\net6.0-windows\Algorhythm.Form1.resources
+C:\CSHAP\Algorhythm\Algorhythm\obj\Debug\net6.0-windows\Algorhythm.csproj.GenerateResource.cache
+C:\CSHAP\Algorhythm\Algorhythm\obj\Debug\net6.0-windows\Algorhythm.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSHAP\Algorhythm\Algorhythm\obj\Debug\net6.0-windows\Algorhythm.AssemblyInfoInputs.cache
+C:\CSHAP\Algorhythm\Algorhythm\obj\Debug\net6.0-windows\Algorhythm.AssemblyInfo.cs
+C:\CSHAP\Algorhythm\Algorhythm\obj\Debug\net6.0-windows\Algorhythm.csproj.CoreCompileInputs.cache
+C:\CSHAP\Algorhythm\Algorhythm\obj\Debug\net6.0-windows\Algorhythm.dll
+C:\CSHAP\Algorhythm\Algorhythm\obj\Debug\net6.0-windows\refint\Algorhythm.dll
+C:\CSHAP\Algorhythm\Algorhythm\obj\Debug\net6.0-windows\Algorhythm.pdb
+C:\CSHAP\Algorhythm\Algorhythm\obj\Debug\net6.0-windows\Algorhythm.genruntimeconfig.cache
+C:\CSHAP\Algorhythm\Algorhythm\obj\Debug\net6.0-windows\ref\Algorhythm.dll
