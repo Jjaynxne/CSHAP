@@ -1,0 +1,14 @@
+C:\CSHAP\Week 3\user-input\bin\Debug\net7.0\user-input.exe
+C:\CSHAP\Week 3\user-input\bin\Debug\net7.0\user-input.deps.json
+C:\CSHAP\Week 3\user-input\bin\Debug\net7.0\user-input.runtimeconfig.json
+C:\CSHAP\Week 3\user-input\bin\Debug\net7.0\user-input.dll
+C:\CSHAP\Week 3\user-input\bin\Debug\net7.0\user-input.pdb
+C:\CSHAP\Week 3\user-input\obj\Debug\net7.0\user-input.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSHAP\Week 3\user-input\obj\Debug\net7.0\user-input.AssemblyInfoInputs.cache
+C:\CSHAP\Week 3\user-input\obj\Debug\net7.0\user-input.AssemblyInfo.cs
+C:\CSHAP\Week 3\user-input\obj\Debug\net7.0\user-input.csproj.CoreCompileInputs.cache
+C:\CSHAP\Week 3\user-input\obj\Debug\net7.0\user-input.dll
+C:\CSHAP\Week 3\user-input\obj\Debug\net7.0\refint\user-input.dll
+C:\CSHAP\Week 3\user-input\obj\Debug\net7.0\user-input.pdb
+C:\CSHAP\Week 3\user-input\obj\Debug\net7.0\user-input.genruntimeconfig.cache
+C:\CSHAP\Week 3\user-input\obj\Debug\net7.0\ref\user-input.dll
