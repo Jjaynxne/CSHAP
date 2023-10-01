@@ -1,0 +1,28 @@
+C:\cshap\TEST\bin\Debug\net7.0\TEST.exe
+C:\cshap\TEST\bin\Debug\net7.0\TEST.deps.json
+C:\cshap\TEST\bin\Debug\net7.0\TEST.runtimeconfig.json
+C:\cshap\TEST\bin\Debug\net7.0\TEST.dll
+C:\cshap\TEST\bin\Debug\net7.0\TEST.pdb
+C:\cshap\TEST\obj\Debug\net7.0\TEST.GeneratedMSBuildEditorConfig.editorconfig
+C:\cshap\TEST\obj\Debug\net7.0\TEST.AssemblyInfoInputs.cache
+C:\cshap\TEST\obj\Debug\net7.0\TEST.AssemblyInfo.cs
+C:\cshap\TEST\obj\Debug\net7.0\TEST.csproj.CoreCompileInputs.cache
+C:\cshap\TEST\obj\Debug\net7.0\TEST.dll
+C:\cshap\TEST\obj\Debug\net7.0\refint\TEST.dll
+C:\cshap\TEST\obj\Debug\net7.0\TEST.pdb
+C:\cshap\TEST\obj\Debug\net7.0\TEST.genruntimeconfig.cache
+C:\cshap\TEST\obj\Debug\net7.0\ref\TEST.dll
+C:\cshap\Week 8_TEST\obj\Debug\net7.0\TEST.GeneratedMSBuildEditorConfig.editorconfig
+C:\cshap\Week 8_TEST\obj\Debug\net7.0\TEST.AssemblyInfoInputs.cache
+C:\cshap\Week 8_TEST\obj\Debug\net7.0\TEST.AssemblyInfo.cs
+C:\cshap\Week 8_TEST\obj\Debug\net7.0\TEST.csproj.CoreCompileInputs.cache
+C:\cshap\Week 8_TEST\obj\Debug\net7.0\TEST.dll
+C:\cshap\Week 8_TEST\obj\Debug\net7.0\refint\TEST.dll
+C:\cshap\Week 8_TEST\obj\Debug\net7.0\TEST.pdb
+C:\cshap\Week 8_TEST\bin\Debug\net7.0\TEST.exe
+C:\cshap\Week 8_TEST\bin\Debug\net7.0\TEST.deps.json
+C:\cshap\Week 8_TEST\bin\Debug\net7.0\TEST.runtimeconfig.json
+C:\cshap\Week 8_TEST\bin\Debug\net7.0\TEST.dll
+C:\cshap\Week 8_TEST\bin\Debug\net7.0\TEST.pdb
+C:\cshap\Week 8_TEST\obj\Debug\net7.0\TEST.genruntimeconfig.cache
+C:\cshap\Week 8_TEST\obj\Debug\net7.0\ref\TEST.dll
